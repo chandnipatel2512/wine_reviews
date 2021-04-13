@@ -5,6 +5,7 @@
 $ git clone 
 
 - Set up a virtual environment - please note the required commands may vary slightly depending on your set-up:
+
     Windows
     $ py -m venv venv
 
@@ -12,6 +13,7 @@ $ git clone
     $ python3 -m venv venv
 
 - Activate the virtual environment:
+
     Windows
     $ source venv/Scripts/activate
 
