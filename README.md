@@ -23,7 +23,7 @@ $ git clone git@github.com:chandnipatel2512/wine_reviews.git
 - Install the requirements from the requirements.txt file:
 $ pip install -r requirements.txt
 
-- Add winemag-data-65k-v2.json and countryContinent.csv to a folder called 'data' at the same level as the 'src' folder.
+- Add winemag-data-65k-v2.csv (please change the last part of the .json filename to .csv since it is in csv format) and countryContinent.csv to a folder called 'data' at the same level as the 'src' folder.
 
 - Run the app.py file, where the key tasks have been completed:
 $ py -m src.app
