@@ -2,7 +2,7 @@
 
 ## Instructions to run
 - Clone the repositry within your chosen code editor: 
-$ git clone 
+$ git clone git@github.com:chandnipatel2512/wine_reviews.git
 
 - Set up a virtual environment - please note the required commands may vary slightly depending on your set-up:
 
