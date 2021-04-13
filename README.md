@@ -5,18 +5,18 @@
 $ git clone 
 
 - Set up a virtual environment - please note the required commands may vary slightly depending on your set-up:
-Windows
-$ py -m venv venv
+    Windows
+    $ py -m venv venv
 
-MacOS/Unix
-$ python3 -m venv venv
+    MacOS/Unix
+    $ python3 -m venv venv
 
 - Activate the virtual environment:
-Windows
-$ source venv/Scripts/activate
+    Windows
+    $ source venv/Scripts/activate
 
-MacOS/Unix
-$ source venv/bin/activate
+    MacOS/Unix
+    $ source venv/bin/activate
 
 - Install the requirements from the requirements.txt file:
 $ pip install -r requirements.txt
